@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.0d411826.chunk.css","App.css"],"names":[],"mappings":"AAAA,2DAA2D,CCA3D,KACI,4BACJ","file":"main.0d411826.chunk.css","sourcesContent":["@import url(https://fonts.googleapis.com/css?family=Roboto);\n\r\n\r\n\nbody {\r\n    font-family: 'Roboto' !important;\r\n}\n","body {\r\n    font-family: 'Roboto' !important;\r\n}"]}
